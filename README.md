@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thashnamurthy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JAVA , SQL
+- 🌱 I’m currently learning JAVA , Spring Boot,SQL
 - 💞️ I’m looking to collaborate on Projects and Intenship
 - 📫 How to reach me:You can feel free to connect with me on www.linkedin.com/in/thashnamurthy-s and contact through via email:thashnamurthy.s@gmail.com
 
